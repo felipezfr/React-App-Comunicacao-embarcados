@@ -1,0 +1,13 @@
+[
+    {
+        "id" : "0",
+        "nome": "Quarto",
+        "descricao": "500"
+    },
+    {
+        "id" : "1",
+        "nome": "Cozinha",
+        "descricao": "600"
+    }
+    
+]

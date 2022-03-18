@@ -1,0 +1,2 @@
+# React-App-Comunicacao-embarcados
+Materia da faculdade Comunicacao_de_Dados_em_Aplicacoes_Embarcadas

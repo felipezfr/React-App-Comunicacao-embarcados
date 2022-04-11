@@ -1,2 +1,2 @@
-# React-App-Comunicacao-embarcados
-Materia da faculdade Comunicacao_de_Dados_em_Aplicacoes_Embarcadas
+# Comunicacao de dados em aplicacoes embarcadas
+Aplicativos em React-native acessando recursos nativos, desenvolvidos na materia de Comunicacao de dados em aplicacoes embarcadas
